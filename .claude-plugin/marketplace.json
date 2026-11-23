@@ -1,0 +1,6 @@
+{
+  "name": "aquarium-koi",
+  "description": "A bright pixel-art aquarium theme for Claude Code in the Claude app.",
+  "owner": { "name": "plusjamaisaterre" },
+  "plugins": [{ "name": "aquarium-koi", "source": "./" }]
+}
